@@ -6,12 +6,6 @@ add dynamic ``QuerySet`` filtering from URL parameters.
 
 Full documentation on `read the docs`_.
 
-.. image:: https://dev.azure.com/noumenal/Django%20Filter/_apis/build/status/Django%20Filter-CI
-    :target: https://dev.azure.com/noumenal/Django%20Filter/_build/latest?definitionId=3
-
-.. image:: https://travis-ci.org/carltongibson/django-filter.svg?branch=master
-    :target: https://travis-ci.org/carltongibson/django-filter
-
 .. image:: https://codecov.io/gh/carltongibson/django-filter/branch/develop/graph/badge.svg
     :target: https://codecov.io/gh/carltongibson/django-filter
 
@@ -21,8 +15,8 @@ Full documentation on `read the docs`_.
 Requirements
 ------------
 
-* **Python**: 3.5, 3.6, 3.7, 3.8
-* **Django**: 2.2, 3.0
+* **Python**: 3.5, 3.6, 3.7, 3.8, 3.9
+* **Django**: 2.2, 3.0, 3.1
 * **DRF**: 3.10+
 
 From Version 2.0 Django Filter is Python 3 only.
